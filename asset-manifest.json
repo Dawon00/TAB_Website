@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/TAB_Website/static/css/main.094ac8e4.css",
-    "main.js": "/TAB_Website/static/js/main.fc98bc1f.js",
+    "main.css": "/TAB_Website/static/css/main.8a67560a.css",
+    "main.js": "/TAB_Website/static/js/main.29ee1d52.js",
     "static/js/787.9c2955dc.chunk.js": "/TAB_Website/static/js/787.9c2955dc.chunk.js",
     "static/media/flutter.svg": "/TAB_Website/static/media/flutter.26e20067eed1f667773e8e45ebcde167.svg",
     "static/media/flutterActivity.png": "/TAB_Website/static/media/flutterActivity.d9e495269f918935566b.png",
     "static/media/TAB_logo_textWhite.png": "/TAB_Website/static/media/TAB_logo_textWhite.fb58216314ebe838946f.png",
     "index.html": "/TAB_Website/index.html",
-    "main.094ac8e4.css.map": "/TAB_Website/static/css/main.094ac8e4.css.map",
-    "main.fc98bc1f.js.map": "/TAB_Website/static/js/main.fc98bc1f.js.map",
+    "main.8a67560a.css.map": "/TAB_Website/static/css/main.8a67560a.css.map",
+    "main.29ee1d52.js.map": "/TAB_Website/static/js/main.29ee1d52.js.map",
     "787.9c2955dc.chunk.js.map": "/TAB_Website/static/js/787.9c2955dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.094ac8e4.css",
-    "static/js/main.fc98bc1f.js"
+    "static/css/main.8a67560a.css",
+    "static/js/main.29ee1d52.js"
   ]
 }
