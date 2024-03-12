@@ -15,9 +15,9 @@ export default function Bar() {
     <div className="">
         <div className="bg-[#D9D9D9] pt-3 items-center pb-32">
             <div className="font-bold pb-3 flex justify-center">
-                DEVELOPED BY Dawon SEO, JUHUI CHO<br/>
-                DESIGNED BY Dawon SEO<br/>
-                PROGRAMMED BY REACT FRAMEWORK
+                Developed by Dawon Seo, Juhui Cho<br/>
+                Designed by Dawon Seo<br/>
+                Developed with React
             </div>
             
         </div>
